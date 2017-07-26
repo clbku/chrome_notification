@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#shownotify{
+    border: 1px solid #abbaca;
+    background-color: #abbaca;
+    padding: 10;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    cursor: pointer;
+    outline: inherit;
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+#shownotify:active{
+    box-shadow: none;
+}
